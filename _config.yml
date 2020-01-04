@@ -1,4 +1,5 @@
-remote_theme : "mmistakes/jekyll-theme-hpstr"
+#remote_theme : "mmistakes/jekyll-theme-hpstr"
+theme : "minimal-mistakes-jekyll"
 title:            Site Title
 description:      Describe your website here.
 disqus_shortname: 
